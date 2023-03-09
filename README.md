@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Lee Sharon 👋</h1>
-<h3 align="center">I'm currently looking for a Junior Frontend / Full-Stack web Developer position</h3>
+<h3 align="center">I'm currently working as a Full Stack Developer for Moveo Group</h3>
 
 • 🤸‍♂️ A team player, always love to be around other people and hear all kind of opinions.
 
